@@ -16,8 +16,6 @@ class Student{
 
 int main(){
     Student s1;
-    s1.age;
-    s1.name;
     cout<<"Name: "<<s1.name<<endl;
     cout<<"Age: "<<s1.age<<endl;
     return 0;
